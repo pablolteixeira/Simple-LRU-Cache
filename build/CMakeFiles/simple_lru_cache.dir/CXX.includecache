@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/cache/lru_cache.hpp
+../node/node.hpp
+/home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/node/node.hpp
+unordered_map
+/home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/cache/unordered_map
+
+/home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/node/node.hpp
+string
+-
+
+/home/pablo/Desktop/github-projects/Simple-LRU-Cache/src/lru_cache.cpp
+../include/cache/lru_cache.hpp
+/home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/cache/lru_cache.hpp
+../include/node/node.hpp
+/home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/node/node.hpp
+
