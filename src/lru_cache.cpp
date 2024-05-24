@@ -59,7 +59,7 @@ void LRUCache::put(int key, int value) {
         Node* lru = tail->prev;
 
         remove(lru);
-        cache.erase(lru->value);
+        cache.erase(lru->key);
         delete lru;
     }
 }
