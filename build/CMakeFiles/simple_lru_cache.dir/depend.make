@@ -5,6 +5,8 @@ CMakeFiles/simple_lru_cache.dir/src/lru_cache.cpp.o: ../include/cache/lru_cache.
 CMakeFiles/simple_lru_cache.dir/src/lru_cache.cpp.o: ../include/node/node.hpp
 CMakeFiles/simple_lru_cache.dir/src/lru_cache.cpp.o: ../src/lru_cache.cpp
 
+CMakeFiles/simple_lru_cache.dir/src/main.cpp.o: ../include/cache/lru_cache.hpp
+CMakeFiles/simple_lru_cache.dir/src/main.cpp.o: ../include/node/node.hpp
 CMakeFiles/simple_lru_cache.dir/src/main.cpp.o: ../src/main.cpp
 
 CMakeFiles/simple_lru_cache.dir/src/node.cpp.o: ../include/node/node.hpp

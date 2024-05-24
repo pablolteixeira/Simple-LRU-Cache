@@ -6,6 +6,8 @@ CMakeFiles/simple_lru_cache.dir/src/lru_cache.cpp.o
  /home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/node/node.hpp
  /home/pablo/Desktop/github-projects/Simple-LRU-Cache/src/lru_cache.cpp
 CMakeFiles/simple_lru_cache.dir/src/main.cpp.o
+ /home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/cache/lru_cache.hpp
+ /home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/node/node.hpp
  /home/pablo/Desktop/github-projects/Simple-LRU-Cache/src/main.cpp
 CMakeFiles/simple_lru_cache.dir/src/node.cpp.o
  /home/pablo/Desktop/github-projects/Simple-LRU-Cache/include/node/node.hpp
